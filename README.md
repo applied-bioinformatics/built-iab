@@ -1,2 +1,1 @@
-# built-iab
-Repository for An Introduction to Applied Bioinformatics built notebooks. 
+This repository contains ipynb files for [An Introduction to Applied Bioinformatics](http://readIAB.org) for use with [Binder](https://mybinder.org). If you're looking for the IAB repository, see https://github.com/caporaso-lab/An-Introduction-to-Applied-Bioinformatics. If you're looking for the project homepage, see http://readIAB.org.
